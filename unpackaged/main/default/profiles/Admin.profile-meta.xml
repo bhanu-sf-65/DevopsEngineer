@@ -3657,6 +3657,11 @@
         <field>orange__c.Orang__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>banana__c.bana__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>LiveChatTranscriptActive-Chat Transcript %28In Progress%29 Layout</layout>
     </layoutAssignments>
@@ -4103,6 +4108,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>orange__c-orange Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>banana__c-banana Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
